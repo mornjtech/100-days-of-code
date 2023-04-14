@@ -12,3 +12,6 @@ I'm on the second page and was able to resolve the toggle switch  button with ht
 
 ### R1D3 
 I will be working on the 'next step' and 'go back' buttons today
+
+### R1D4
+I worked on the 'Pick add-ons page using display flex and justify content to arrange the contents the way they look on the original work. Spent about an hour or less on that.
